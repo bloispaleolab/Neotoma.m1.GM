@@ -77,6 +77,7 @@ plot(NorthAmerica, xlim = c(-180, -50))
 # CREATE THE MAP ELEMENTS----
 
 # Create each map panel separately, then combine them in Illustrator
+# Also added the labels Can., USA, and Mex. in Illustrator
 
 # central figure
 png(file="Map_fig/Output/woodrat-map-all_species_orig.png", height=4, width=4, units="in", res=300)
